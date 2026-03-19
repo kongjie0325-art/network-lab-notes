@@ -77,3 +77,5 @@ Analyze network routing path and latency behavior
 
 - Analyze VPS routing
 - Compare different server locations
+## Notes
+This analysis is based on simulated but realistic network behavior.
